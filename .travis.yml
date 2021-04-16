@@ -1,7 +1,3 @@
-#basic comment
-#basic comment #2
-#base comment #3
-#base comment #4
 language: java
 jdk:
   - openjdk11
